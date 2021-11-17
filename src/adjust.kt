@@ -1,5 +1,5 @@
 package adjust
 
 fun main() {
-    println("12345")
+    println("123456")
 }
